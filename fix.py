@@ -226,7 +226,7 @@ import sqlite3
 import uvicorn
 from huggingface_hub import HfFolder
 
-HfFolder.save_token("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")
+HfFolder.save_token("")
 # Load LLaMA model from Hugging Face
 model_id = "meta-llama/Llama-2-7b-hf"
 tokenizer = AutoTokenizer.from_pretrained(model_id)
