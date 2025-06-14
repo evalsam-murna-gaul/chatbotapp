@@ -1,0 +1,103 @@
+{
+    "name": "American University of Nigeria",
+    "abbreviation": "AUN",
+    "location": {
+        "city": "Yola",
+        "state": "Adamawa",
+        "country": "Nigeria"
+    },
+    "established": 2004,
+    "motto": "Excellence, Integrity, Service",
+    "founder": "Atiku Abubakar",
+    "type": "Private",
+    "affiliation": "American-style liberal arts education",
+    "student_population": {
+        "undergraduate": 1500,
+        "graduate": 500,
+        "international_students": 10
+    },
+    "academic_programs": [
+        {
+            "school": "School of Arts and Sciences",
+            "departments": ["English & Literature", "Natural & Environmental Sciences", "Politics & International Studies"]
+        },
+        {
+            "school": "School of Business and Entrepreneurship",
+            "departments": ["Accounting", "Business Administration", "Economics"]
+        },
+        {
+            "school": "School of Information Technology and Computing",
+            "departments": ["Computer Science", "Software Engineering", "Data Science"]
+        },
+        {
+            "school": "School of Law",
+            "departments": ["International Law", "Corporate Law", "Human Rights Law"]
+        },
+        {
+            "school": "School of Engineering",
+            "departments": ["Electrical Engineering", "Mechanical Engineering", "Telecommunications Engineering"]
+        },
+        {
+            "school": "Graduate School",
+            "programs": ["MBA", "MSc Information Systems", "PhD in Business Administration"]
+        }
+    ],
+    "faculty": {
+        "total_faculty_members": 150,
+        "faculty_nationalities": ["Nigerian", "American", "British", "Indian", "Ghanaian"]
+    },
+    "tuition_fees": {
+        "undergraduate": {
+            "Nigerian_students": "$7,500 per semester",
+            "international_students": "$9,000 per semester"
+        },
+        "graduate": {
+            "MBA": "$10,000 per year",
+            "MSc Information Systems": "$8,500 per year",
+            "PhD in Business Administration": "$12,000 per year"
+        },
+        "payment_options": ["Full payment", "Installments", "Scholarships available"]
+    },
+    "scholarships": {
+        "merit_based": {
+            "requirement": "Minimum CGPA of 3.5",
+            "coverage": "25% - 50% tuition fee waiver"
+        },
+        "need_based": {
+            "requirement": "Proof of financial need",
+            "coverage": "Up to 75% tuition assistance"
+        },
+        "sports_scholarship": {
+            "requirement": "Outstanding athletic performance",
+            "coverage": "Partial or full tuition waiver"
+        },
+        "founder's_scholarship": {
+            "requirement": "Top 5% in AUN entrance exam",
+            "coverage": "100% tuition waiver"
+        }
+    },
+    "notable_features": {
+        "library": "e-Library with extensive digital resources",
+        "technology": "First wireless campus in Sub-Saharan Africa",
+        "community_service": "Sustainable development and literacy programs",
+        "sports_facilities": ["Football pitch", "Basketball court", "Tennis court", "Swimming pool"],
+        "hostel_facilities": {
+            "male_hostels": 4,
+            "female_hostels": 5,
+            "international_student_hostel": false
+        }
+    },
+    "extracurricular_activities": [
+        "Student Government Association",
+        "Honor Society",
+        "Debate Club",
+        "Entrepreneurship Club",
+        "Sports Teams"
+    ],
+    "accreditation": {
+        "national": "National Universities Commission (NUC) of Nigeria",
+        "international": "Accredited to offer American-style liberal arts education"
+    },
+    "website": "https://www.aun.edu.ng"
+}
+

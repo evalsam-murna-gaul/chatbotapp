@@ -1,0 +1,122 @@
+{
+    "faqs": [
+      {
+        "question": "How do I register for courses?",
+        "answer": "Course registration begins after consulting with your academic advisor and registration is usually done during end of semester breaks. Login to your student portal, select 'Course Registration', choose your courses for the semester, and submit the form for approval. Registration is only complete after your advisor approves your selection."
+      },
+      {
+        "question": "What's the deadline for admissions?",
+        "answer": "For Fall semester, the application deadline is typically May 31. For Spring semester, the deadline is October 31. International students should apply at least 3 months before these deadlines to allow time for visa processing."
+      },
+      {
+        "question": "Where can I find the academic calendar?",
+        "answer": "The academic calendar is available on the AUN website under 'Academics' or directly at https://www.aun.edu.ng/academics/academic-calendar. It contains important dates for registration, classes, examinations, and holidays."
+      },
+      {
+        "question": "How can I contact student services?",
+        "answer": "You can reach Student Services by email at studentservices@aun.edu.ng, by phone at +234-8012345678, or by visiting their office in the Administration Building between 9am-5pm Monday to Friday."
+      },
+      {
+        "question": "What accommodation options are available?",
+        "answer": "AUN offers both on-campus and off-campus housing. On-campus options include single and shared rooms in various residence halls. Off-campus accommodations can be arranged through the Housing Office. Priority for on-campus housing is given to international and first-year students."
+      },
+      {
+        "question": "How do I apply for financial aid?",
+        "answer": "To apply for financial aid, submit the Financial Aid Application Form available on the student portal along with required supporting documents showing financial need. Applications for the next academic year should be submitted by March 31."
+      },
+      {
+        "question": "What dining options are available on campus?",
+        "answer": "AUN has several dining options including the main cafeteria in the Student Center, the Faculty Lounge, and various cafés across campus. Meal plans are available for students and can be purchased through the Student Services office."
+      },
+      {
+        "question": "How can I join student clubs?",
+        "answer": "Information about student clubs can be found at the Student Activities office or on the student portal. Most clubs have recruitment drives during the first two weeks of each semester where you can sign up. You can also start a new club by submitting a proposal to the Student Government Association."
+      },
+      {
+        "question": "What is the school policy on attendance, exams and academic probation?",
+        "answer": "AUN has a strict policy of a 75% attendance requirement to be eligible for examinations. If a student's CGPA falls below 2.0, they receive a warning. If the grade doesn't improve the next semester, the student is placed on academic probation."
+      },
+      {
+        "question": "How is grading done in AUN?",
+        "answer": "This is AUN's grading system: A (95-100%), A- (90-94%), B+ (87-89%), B (83-86%), B-(80-82%), C+(75-79%), C(70-74%), D(60-69%), F(0-59%)."
+      },
+      {
+        "question": "Is it possible to get other types of grades?",
+        "answer": "AUN has other grading formats: I (Incomplete) - granted when a student misses a final exam for valid reasons; W (Withdrawal) - when a student drops a course before deadline; AU (Audit) - attending without credit; P/F (Pass/Fail) - used for some courses."
+      },
+      {
+        "question": "What are the names of all the Chairs of the various departments?",
+        "answer": {
+          "School of Arts and Sciences": [
+            { "Mathematics": "Dr. Moses Omuya" },
+            { "Communication and Multimedia Design": "Dr. Ikechukwu Ike" },
+            { "Economics": "Dr. Iliya Emmanuel" },
+            { "English Language and Literature": "Dr. Richard Kamai" },
+            { "Natural and Environmental Science": "Dr. Malachy Okeke" },
+            { "Petroleum Chemistry": "Dr. Muhammad Yahaya" },
+            { "Politics and International Studies": "Dr. Peter Genger" },
+            { "General Education": "Dr. Lawal Momoh Hussaini" }
+          ],
+          "School of Basic and Medical Health Sciences": [
+            { "Nursing Science": "Dr. Solomon Donsanda" },
+            { "Public Health": "Dr. George Ani" }
+          ],
+          "School of Law": [
+            { "Public Law": "Assoc. Prof. Bello Magaji" },
+            { "Private Law": "Dr. Obinna Dike" }
+          ],
+          "School of Engineering": [
+            { "Chemical & Computer Engineering": "Dr. Salihu Adamu Girei" },
+            { "Electrical/Electronics, Telecommunications Engineering": "Dr. Olusegun Ogundapo" }
+          ],
+          "School of Information Technology and Computing": [
+            { "Computer Science": "Assoc. Prof. Charles Nche" },
+            { "Information Systems": "Dr. Chidi Ononiwu" },
+            { "Data science and Analytics": "Dr. Amir Sa'ad" },
+            { "Software Engineering": "Dr. Ibrahim Inuwa" }
+          ],
+          "School of Business and Entrepreneurship": [
+            { "Accounting & Finance": "Dr. Abubakar Ahmed" },
+            { "Business Administration & Marketing": "Dr. Yusuf Ahmed Mohammed Kani" },
+            { "Entrepreneurship and Management": "Dr. Nurein Saheed Adebowale" }
+          ]
+        }
+      },
+      {
+        "question": "What are the names of all the academic Deans in AUN?",
+        "answer": [
+          { "Graduate School": "Prof. Sakah Saidu Mahmud" },
+          { "School of Law": "Prof. Mohammad Yusuf Yusuf" },
+          { "School of Arts and Sciences & Acting dean of School of Basic Health and Medical Sciences": "Prof. Bolade Oyeyinka Agboola" },
+          { "School of Engineering": "Assoc. Prof. Abubakar Sadiq Hussaini" },
+          { "School of Information Technology and Computing": "Assoc. Prof. Charles Nche" },
+          { "School of Business and Entrepreneurship": "Assoc. Prof. Yusuf Ahmed M. Kani" }
+        ]
+      },
+      {
+        "question": "What are the names of the associate deans?",
+        "answer": [
+          { "School of Arts and Sciences": "Associate Prof. Agatha Ukata" },
+          { "School of Basic Medical and Health Sciences": "Dr. Solomon Donsanda" },
+          { "School of Law": "Dr. Obinna Dike" },
+          { "School of Engineering": "Dr. Adamu Girei Salihu" }
+        ]
+      },
+      {
+        "question": "What are the names of the current academic directors?",
+        "answer": [
+          { "Director of Academic Planning": "Assoc. Prof. Bello Magaji" },
+          { "Director of Academic Records": "Dr. Moses Achinihu" },
+          { "Director of Office of Institutional Research and Effectiveness": "Mr. Forteta Alvin" },
+          { "Director of Math/Statistics Lab and Mathematics Centre": "Assoc. Prof. Ahmed Aliyu" },
+          { "Director of Writing Center": "Mrs. Emilienne Idorenyi Akpan" }
+        ]
+      },
+      {
+        "question": "Who is the current Dean of Student Affairs?",
+        "answer": {
+          "Dean of Student Affairs": "Dean Sesugh Annger"
+        }
+      }
+    ]
+  }

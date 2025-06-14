@@ -1,0 +1,156 @@
+{
+    "full_meaning": {
+      "question": "What is the full meaning of AUN?",
+      "answer": "American University of Nigeria"
+    },
+    "location": {
+      "question": "Where is AUN located?",
+      "answer": "AUN is located in Yola, the capital city of Adamawa State. The AUN campus occupies a serene savannah vegetation most of which was used as farmland. Yola is accessible by road and air, with daily flights from the Yola Airport connect through Abuja regional, national and international locations."
+    },
+    "mission": {
+      "question": "What is the mission AUN?",
+      "answer": {
+        "mission": "AUN’s mission as a 'Development University', is to foster the creation of leaders committed to sustaining a democracy in which diverse people share in the rights and responsibilities of citizenship, are proficient in creating and applying technology to wise purpose, and are dedicated to securing a humane and prosperous world. AUN will become a place where students' dreams become Africa's future. At AUN, lives will be transformed for service and leadership to lead Africa and the world in what will surely be the challenging years ahead."
+     }
+    },
+    "vision": {
+      "question": "What is the vision of AUN?",
+      "answer": {
+        "vision": "AUN’s vision is to become a center of learning and research for Nigeria and Africa and a catalyst for development in the entire world. In the words of its Founder, it sees its role as a 'Development University.' Thus, the University will honor the traditional university roles of repository and transmitter of culture and knowledge and center for the creation of new knowledge. As a 'Development University,' it will also focus on the practical roles that a university must play in the development of a great nation and continent."
+        
+      }
+    },
+    "core_values": {
+      "question": "What are the core values of AUN?",
+      "answer": {
+              "core_values": ["Excellence", "Integrity", "Service"]
+      }
+    },
+    "brief_history": {
+      "question": "Can you provide a brief history of the university?",
+      "answer": "The American University of Nigeria (AUN) was founded in 2003 by former Nigerian Vice President Atiku Abubakar in Yola, Adamawa State. Initially licensed as ABTI University, it was established with guidance from American University in Washington, DC, and constructed on land donated by the Lamido of Adamawa. Renamed AUN in 2007, it began with a distinguished international Board of Trustees, including figures like Nobel laureate Desmond Tutu and former U.S. Defense Secretary Robert McNamara. The university opened in 2005/2006 with 124 students and has since expanded to include Schools of Law and Engineering and School of Basic Medical and Applied Science, alongside its original schools (Arts & Sciences, Business & Entrepreneurship, and IT & Computing). It graduated its first class of 92 students in 2009 and has maintained steady growth. AUN is Nigeria’s first fully wireless university, offering 24/7 high-speed internet. It gained NUC accreditation in 2008 and introduced postgraduate programs, including an Executive Master’s in IT (2012), Ph.D. programs, and a hybrid MBA. The Robert A. Pastor Library and E-Learning Center, opened in 2014, houses an award-winning e-library. All AUN presidents have been American nationals, starting with Dr. David Huwiler, with Dr. DeWayne Frazier currently serving. The Board of Trustees has been chaired by notable figures, including Alhaji Ahmed Joda and currently Senator Ben Obi. AUN remains committed to US-style education with a focus on development issues."
+    },
+    "unique_or_better": {
+      "question": "What makes AUN unique compared to other universities in Nigeria?",
+      "answer": "AUN is unique for its American-style education, liberal arts approach, entrepreneurship focus, and commitment to development. It’s ideal for students seeking a globally competitive, interactive and leadership-driven university experience in Nigeria."
+    },
+    "official_colors": {
+      "question": "What are the official university colors, motto, and mascot?",
+      "answer": {
+        "colors": ["Red", "Blue", "Green", "White"],
+        "mascot": "The university’s mascot is a stallion named Stanley as the students of the university are referred to as Stallions"
+      }
+    },
+    "accreditations": {
+      "question": "What accreditations and affiliations does AUN hold?",
+      "answer": "AUN holds a National Universities Commission (NUC) accreditation which it gained in 2008. This accreditation ensures that the degrees earned in this university are acknowledged in Nigeria and internationally."
+    },
+    "schools": {
+      "question": "What are the different schools in AUN?",
+      "answer": [
+        "School of Arts and Science (SAS)",
+        "School of Business and Entrepreneurship (SBE)",
+        "School of Information Technology and Computing (SITC)",
+        "School of Engineering (SOE)",
+        "School of Law (SOL)",
+        "School of Basic Medical and Applied Science"
+      ]
+    },
+    "deans": {
+      "question": "What are the names of AUN’s current Deans of the various schools?",
+      "answer": {
+        "School of Arts and Science": "Dean Bolade Agboola, PhD",
+        "School of Business & Entrepreneurship": "Dean Dr. Yusuf Kani",
+        "School of Information Technology and Computing": "Dean Charles Nche, PhD",
+        "School of Engineering": "Dean Abubakar Sadiq Hussaini, MSc, PhD",
+        "School of Law": "Dean Dr. Bello Mohammed Magaji",
+        "School of Basic Medical and Applied Science": "Dean Bolade Agboola, PhD",
+        "School of Graduate Studies": "Dean Dr. Sakah Saidu Mahmoud, PhD"
+      }
+    },
+    "program_or_major": {
+      "question": "What undergraduate, graduate, and diploma programs or majors does AUN offer?",
+      "answer": {
+        "undergraduate": [
+          "Accounting (B.Sc.)",
+          "Business Administration (B.Sc.)",
+          "Chemical Engineering (B.Eng.)",
+          "Civil Engineering(B.Eng.)",
+          "Communication and Multimedia Design (B.SC.)",
+          "Computer Engineering (B.Eng.)",
+          "Computer Science (B.Sc.)",
+          "Economics (B.A)",
+          "Electrical/Electronics Engineering (B.Eng.)",
+          "English Literature & Language (B.A.)",
+          "Entrepreneurship & Management (B.SC.)",
+          "Finance (B.Sc.)",
+          "Information Systems (B.Sc.)",
+          "Laws (LLB Honors)",
+          "Natural and Environmental Sciences (B.Sc.)",
+          "Nursing (B.NSc.)",
+          "Petroleum Chemistry (B.Sc.)",
+          "Politics and International Studies (B.A.)",
+          "Public Health (B.Sc.)",
+          "Telecommunication Engineering (B.Eng.)"
+        ],
+        "graduate": [
+          "Business Administration (M.Sc.)",
+          "Business Administration (Ph.D.)",
+          "Communication for Social & Behavior Change (M.Sc.)",
+          "Communications and Multimedia Design (M.Sc.)",
+          "Communications and Multimedia Design (Ph.D.)",
+          "Computer Science (M.Sc.)",
+          "Computer Science (Ph.D.)",
+          "Data Science and Analytics (M.Sc.)",
+          "English Language and Literature",
+          "Information Systems (M.Sc.)",
+          "Information Systems (Ph.D.)",
+          "Management (Postgraduate Diploma)",
+          "Master of Business Administration (Online Option)",
+          "Petroleum Chemistry (M.Sc.)",
+          "Petroleum Chemistry (Ph.D.)"
+        ]
+      }
+    },
+    "popular_majors": {
+      "question": "What are the university’s most popular majors?",
+      "answer": [
+        "Law",
+        "Information Systems",
+        "Communication and Multimedia Design",
+        "Computer Science",
+        "Software Engineering"
+      ]
+    },
+    "internship_opportunity": {
+      "question": "What internship opportunities are available?",
+      "answer": [
+        "Presidential Internship",
+        "Scholarship Program",
+        "Work Study"
+      ]
+    },
+    "notable_features": {
+        "library": "e-Library with extensive digital resources",
+        "technology": "First wireless campus in Sub-Saharan Africa",
+        "community_service": "Sustainable development and literacy programs",
+        "sports_facilities": ["Football pitch", "Basketball court", "Tennis court", "Swimming pool"],
+        "dormitory_facilities": {
+            "male_dormitory": 4,
+            "female_dormitory": 5
+        }
+    },
+
+    "dormitory_names": {
+        "female_dormitory": "Dorm AA, Dorm CC, Dorm DD, Aisha Kande Residence, Rosaria Volpi Residence",
+        "male_dormitory": "Dorm BB, Dorm EE, Dorm FF, Gabriele Volpi Residence"
+        
+    },
+    "extracurricular_activities": [
+        "Student Government Association",
+        "Honor Society",
+        "Entrepreneurship and Leadership Society",
+        "Sports Teams, etc"
+    ]
+  }
+  
